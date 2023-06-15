@@ -1,0 +1,23 @@
+.JSPL_LOGO {
+    position: absolute;
+    width: 7%;
+    height: 7%;
+    padding: 0px 0px 0px 0.5%;
+    background-color: white;
+}
+
+.Heading_line_div {
+    background-color: white;
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.Heading_line {
+    color: red;
+    margin: 0px 0px 0px 0px;
+}
+
+.Top_Title {
+    background-color: white;
+
+}
