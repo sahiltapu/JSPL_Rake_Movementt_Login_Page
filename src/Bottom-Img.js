@@ -1,7 +1,5 @@
 import React from "react";
 import "./Bottom-Img.css";
-import "https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js";
-import "https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"
 import TwitterContainer from "./TwitterContainer";
 const Bottomdiv = () => {
 
