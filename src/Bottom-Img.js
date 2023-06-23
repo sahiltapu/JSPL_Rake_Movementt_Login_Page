@@ -4,7 +4,7 @@ import "https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js";
 import "https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"
 import TwitterContainer from "./TwitterContainer";
 const Bottomdiv = () => {
-  
+
   return (
     <div className="backgroundDiv">
       <table style={{ textAlign: "center" }}>
@@ -41,7 +41,7 @@ const Bottomdiv = () => {
                 <input type="password" placeholder="Password " className="pass-enter" required />
                 <ion-icon name="lock-closed" className="icon2"></ion-icon>
               </div>
-              <button className="Submit-button" id = "Sign_In" onSubmit={"#"}>Sign In</button>
+              <button className="Submit-button" id = "Sign_In">Sign In</button>
               <a href="https://accounts.google.com/AccountChooser/signinchooser?continue=https%3A%2F%2Faccounts.google.com%2Fo%2Fsaml2%2Finitsso%3Fidpid%3DC013ejz1e%26spid%3D814583949516%26forceauthn%3Dfalse%26from_login%3D1%26as%3DdYGlW47MkzVINUilTQ_5niCNjbPIpl_eZm-FuWcVE5A&ltmpl=popup&btmpl=authsub&scc=1&oauth=1&flowName=GlifWebSignIn&flowEntry=AccountChooser">
                 <img className="Googlelogin_btn"
                 src={require('./11.png')}
