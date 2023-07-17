@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JSPL_Rake_Movementt_Login_Page/static/css/main.5120b660.css",
+    "main.js": "/JSPL_Rake_Movementt_Login_Page/static/js/main.ad546579.js",
+    "static/media/Screenshot (111).png": "/JSPL_Rake_Movementt_Login_Page/static/media/Screenshot (111).b11ab084b9af32950147.png",
+    "static/media/jspl_logo.png": "/JSPL_Rake_Movementt_Login_Page/static/media/jspl_logo.51d71b1b10b804149835.png",
+    "index.html": "/JSPL_Rake_Movementt_Login_Page/index.html",
+    "main.5120b660.css.map": "/JSPL_Rake_Movementt_Login_Page/static/css/main.5120b660.css.map",
+    "main.ad546579.js.map": "/JSPL_Rake_Movementt_Login_Page/static/js/main.ad546579.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5120b660.css",
+    "static/js/main.ad546579.js"
+  ]
+}
